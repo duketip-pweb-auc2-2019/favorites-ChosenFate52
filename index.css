@@ -1,0 +1,61 @@
+body{
+    color:white;
+    /* color:black */
+    background-color: black;
+    text-align: center;
+    font-family:'Orbitron', sans-serif;
+}
+#Ani{
+    text-align: left;
+}
+#Mace{
+    text-align: left;
+}
+#anakin{
+    color:red;
+}
+#Obi-wan{
+    color:blue;
+}
+#yoda{
+    color:green;
+}
+#Mace{
+    color:purple;
+}
+#ahsoka{
+    color:yellowgreen;
+}
+
+#Rex{
+    color:pink
+    
+}
+#Cody{
+    color:yellow;
+}
+body.special {
+    background-image:url("https://wallpaperplay.com/walls/full/8/1/9/54212.jpg");
+}
+body.pizza{
+    background-image:url()
+}
+body.galaxy{
+    background-image:url()
+}
+/* #panel{ */
+    /* background-color: black; */
+    /* border: 2px solid black; */
+    /* border-radius: 15px; */
+}
+.button{
+    background-color:Red;
+    border:none;
+    color:white;
+    padding:15px 32px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px
+}
+    
